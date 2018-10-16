@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205633018734",
+    "firebase_url": "https://vam-icr.firebaseio.com",
+    "project_id": "vam-icr",
+    "storage_bucket": "vam-icr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205633018734:android:02f564a81e683c4a",
+        "android_client_info": {
+          "package_name": "com.example.atriax.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205633018734-be8i21rv7bqduggd3b07pg4srcalp3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyV0DQIuOU7cpUyHSGhRrmbAvRC3mUIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
